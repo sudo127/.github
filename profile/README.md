@@ -20,7 +20,7 @@
 
 ### Our own products
 
-| | | |
+| Product | What it does | Status |
 |---|---|---|
 | **[pay127](https://pay127.com)** | Accounting with an AI assistant. Quotations, invoices, bills and expenses for Malaysian businesses. | Live |
 | **[work127](https://sudo127.com/products/work127)** | Projects, crews, equipment and HR in one workspace, with apps for the team on site. | Early access |
